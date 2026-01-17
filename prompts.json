@@ -1,0 +1,24 @@
+[
+  {
+    "text": "You are an expert React Native developer using Expo SDK 51+...",
+    "category": "Coding",
+    "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&q=80&w=800",
+    "tags": ["react-native", "expo", "typescript", "tailwind"],
+    "difficulty": "intermediate",
+    "model": "any",
+    "tone": "technical",
+    "description": "Detailed guide for building features with modern Expo stack",
+    "source": "curated"
+  },
+  {
+    "text": "Act as a world-class creative writer. Generate a short, viral TikTok script about [topic]...",
+    "category": "Creative",
+    "image_url": "https://images.unsplash.com/photo-1611162617210-7d7a39e9b1d7?auto=format&fit=crop&q=80&w=800",
+    "tags": ["tiktok", "script", "viral", "social-media"],
+    "difficulty": "beginner",
+    "length": "short",
+    "description": "Hook-heavy script with timing notes for short-form video",
+    "source": "curated"
+  }
+  
+]
