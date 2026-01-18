@@ -1,0 +1,62 @@
+[
+  {
+    "category_id": 1001,
+    "category_name": "Personal Image",
+    "category_image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=800",
+    "tags": ["headshot", "portrait", "linkedin", "profile-picture", "personal-branding", "aesthetic", "professional-photo"]
+  },
+  {
+    "category_id": 1002,
+    "category_name": "Marketing",
+    "category_image": "https://images.unsplash.com/photo-1556155099-870a92226177?auto=format&fit=crop&q=80&w=800",
+    "tags": ["ads", "social-media", "instagram", "copywriting", "sales", "viral", "carousel", "email", "funnel"]
+  },
+  {
+    "category_id": 1003,
+    "category_name": "Coding",
+    "category_image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&q=80&w=800",
+    "tags": ["react", "nextjs", "typescript", "expo", "tailwind", "fullstack", "mobile", "api", "debugging"]
+  },
+  {
+    "category_id": 1004,
+    "category_name": "Writing",
+    "category_image": "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&q=80&w=800",
+    "tags": ["copywriting", "blog", "storytelling", "bio", "cold-email", "script", "linkedin-post", "content"]
+  },
+  {
+    "category_id": 1005,
+    "category_name": "Presentation",
+    "category_image": "https://images.unsplash.com/photo-1551836022-d5d88e9218df?auto=format&fit=crop&q=80&w=800",
+    "tags": ["ppt", "slides", "pitch-deck", "investor", "powerpoint", "keynote", "business-presentation", "education-slides"]
+  },
+  {
+    "category_id": 1006,
+    "category_name": "Image Generation",
+    "category_image": "https://images.unsplash.com/photo-1553356084-58ef4a67b2a7?auto=format&fit=crop&q=80&w=800",
+    "tags": ["midjourney", "stable-diffusion", "flux", "ai-art", "portrait", "landscape", "cinematic", "fantasy", "aesthetic"]
+  },
+  {
+    "category_id": 1007,
+    "category_name": "Video & Motion",
+    "category_image": "https://images.unsplash.com/photo-1492619375914-88005aa9e083?auto=format&fit=crop&q=80&w=800",
+    "tags": ["video-prompt", "runway", "sora", "motion", "animation", "reels", "tiktok", "cinematic-video", "storyboard"]
+  },
+  {
+    "category_id": 1008,
+    "category_name": "Study & Education",
+    "category_image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&q=80&w=800",
+    "tags": ["study", "exam", "notes", "flashcards", "explanation", "tutor", "learning", "summary", "mnemonics"]
+  },
+  {
+    "category_id": 1009,
+    "category_name": "Social Media Content",
+    "category_image": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?auto=format&fit=crop&q=80&w=800",
+    "tags": ["twitter-thread", "instagram-caption", "tiktok-script", "reel", "post", "engagement", "viral-content", "hashtag"]
+  },
+  {
+    "category_id": 1010,
+    "category_name": "Business & Startup",
+    "category_image": "https://images.unsplash.com/photo-1557804506-669a67965ba0?auto=format&fit=crop&q=80&w=800",
+    "tags": ["business-plan", "startup", "pitch", "strategy", "email-sequence", "branding", "growth", "saas", "consulting"]
+  }
+]
