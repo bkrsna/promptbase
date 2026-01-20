@@ -1,7 +1,8 @@
 [
-"id": "b1",
-"titel": "Ten Prompts for marketing",
-"prompts": [
+{
+  "id": "b1",
+  "titel": "Ten Prompts for marketing",
+  "prompts": [
   {
     "id": 3492,
     "category": "Personal Image",
@@ -113,4 +114,6 @@
     "Attached Material": "https://raw.githubusercontent.com/bkrsna/promptbase/refs/heads/main/5pVcQ6fF9eI-MQ.jpg"
   }
 ]
+}
+
 ]
