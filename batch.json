@@ -2,7 +2,14 @@
 {
   "id": "b1",
   "titel": "Ten Prompts for marketing",
-  "Attached Material": "https://raw.githubusercontent.com/bkrsna/promptbase/refs/heads/main/5pVcQ6fF9eI-MQ.jpg",
+  "Attached Material": "https://raw.githubusercontent.com/bkrsna/promptbase/refs/heads/main/G_HuDlBWkAQCzma.jpg",
+  "Auther": "The Rook",
+  "Free": true,
+  "tags": ["headshot", "linkedin", "personal-branding", "professional-photo", "ai-portrait"],
+  "category": "Personal Image",
+
+  "Description": "Generate polished, executive-level headshots for career profiles and personal websites.",
+  
   "prompts": [
   {
     "id": 3492,
